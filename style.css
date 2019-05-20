@@ -1,0 +1,74 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import url("https://use.typekit.net/oot8rwl.css");
+@import "https://fonts.googleapis.com/css?family=Poppins:400,600|Roboto:200,300,500|Source+Sans+Pro";
+
+h1 {
+    font-family: Brandon Grotesque, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 400;
+    text-align: center;
+    color: #FFF7CC;
+    margin: 2rem 0 4rem 0;
+}
+
+h1::after {
+    background: #FFF7CC;
+    margin: auto;
+    content: '';
+    height: 1px;
+    display: block;
+    margin-top: 1rem;
+    width: 30%;
+}
+
+body {
+    background: #403E33;
+}
+.card-img-top {
+    height: auto;
+    width: 75px;
+    margin: auto;
+    padding: auto;
+}
+
+.card {
+    background: #E5DEB8;
+    margin-top: .1rem;
+    border: 5px solid #403E33;
+    border-radius: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    padding-top: 20px;
+}
+
+h5 {
+    text-align: center;
+    font-family: Brandon Grotesque, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #403E33;
+    margin-top: .5rem;
+}
+
+h6 {
+    text-align: center;
+    font-family: Brandon Grotesque, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #292821;
+    margin-top: 1rem;
+    font-style: italic;
+}
+
+p {
+    text-align: right;
+    font-family: Brandon Grotesque, Helvetica, sans-serif;
+    font-size: .8rem;
+    font-weight: 300;
+    color: #292821;
+    margin-top: 2rem;
+}
