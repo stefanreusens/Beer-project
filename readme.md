@@ -2,7 +2,7 @@
 
 ## Link
 
-I deployed this project on Github. You can [check it out here](link)
+I deployed this project on Github. You can [check it out here](https://stefanreusens.github.io/Beer-project/).
 
 ## About this project
 
